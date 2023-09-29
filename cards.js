@@ -5,7 +5,7 @@ const cards = [
     },
 
     {
-        image: '///img///cards/love.png',
+        image: '//img//cards/love.png',
         text: 'Любовь',
     },
     
