@@ -1,6 +1,6 @@
 const cards = [
     {
-        image: '//img//cards/house.png',
+        image: 'img/cards/house.png',
         text: 'Новое жильё',
     },
 
