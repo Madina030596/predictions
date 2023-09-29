@@ -5,37 +5,37 @@ const cards = [
     },
 
     {
-        image: '/img/cards/love.png',
+        image: '//img//cards/love.png',
         text: 'Любовь',
     },
     
     {
-        image: '/img/cards/car.png',
+        image: '//img//cards/car.png',
         text: 'Новая машина',
     },
 
     {
-        image: '/img/cards/gift.png',
+        image: '//img//cards/gift.png',
         text: 'Сюрприз',
     },
 
     {
-        image: '/img/cards/money.png',
+        image: '//img//cards/money.png',
         text: 'Денежная прибыль',
     },
     
     {
-        image: '/img/cards/travel.png',
+        image: '//img//cards/travel.png',
         text: 'Путешествие',
     },
 
     {
-        image: '/img/cards/teaching.png',
+        image: '//img//cards/teaching.png',
         text: 'Новые знания',
     },
 
     {
-        image: '/img/cards/news.png',
+        image: '//img//cards/news.png',
         text: 'Неожиданные новости',
     }
 ]
