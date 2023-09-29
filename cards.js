@@ -10,7 +10,7 @@ const cards = [
     },
     
     {
-        image: '//img//cards/car.png',
+        image: '/img/cards/car.png',
         text: 'Новая машина',
     },
 
