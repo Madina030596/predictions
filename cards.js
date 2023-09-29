@@ -1,41 +1,41 @@
 const cards = [
     {
-        image: 'img/cards/house.png',
+        image: 'https://cdn.glitch.global/04bf5ab8-0364-4aca-a75d-797d02d7369b/house.png?v=1654001578204',
         text: 'Новое жильё',
     },
 
     {
-        image: 'img/cards/love.png',
+        image: 'https://cdn.glitch.global/04bf5ab8-0364-4aca-a75d-797d02d7369b/love.png?v=1654001584317',
         text: 'Любовь',
     },
     
     {
-        image: 'img/cards/car.png',
+        image: 'https://cdn.glitch.global/04bf5ab8-0364-4aca-a75d-797d02d7369b/car.png?v=1654001569056',
         text: 'Новая машина',
     },
 
     {
-        image: 'img/cards/gift.png',
+        image: 'https://cdn.glitch.global/04bf5ab8-0364-4aca-a75d-797d02d7369b/gift.png?v=1654001572826',
         text: 'Сюрприз',
     },
 
     {
-        image: 'img/cards/money.png',
+        image: 'https://cdn.glitch.global/04bf5ab8-0364-4aca-a75d-797d02d7369b/money.png?v=1654001589490',
         text: 'Денежная прибыль',
     },
     
     {
-        image: 'img/cards/travel.png',
+        image: 'https://cdn.glitch.global/04bf5ab8-0364-4aca-a75d-797d02d7369b/travel.png?v=1654001605389',
         text: 'Путешествие',
     },
 
     {
-        image: 'img/cards/teaching.png',
+        image: 'https://cdn.glitch.global/04bf5ab8-0364-4aca-a75d-797d02d7369b/teaching.png?v=1654001599302',
         text: 'Новые знания',
     },
 
     {
-        image: 'img/cards/news.png',
+        image: 'https://cdn.glitch.global/04bf5ab8-0364-4aca-a75d-797d02d7369b/news.png?v=1654001592807',
         text: 'Неожиданные новости',
     }
 ]
